@@ -133,3 +133,30 @@ footer {
   color: #a9bcd0;
   border-top: 1px solid #0d1b2a;
 }
+
+/* Profiles Section */
+#profiles {
+  text-align: center;
+}
+
+#profiles p {
+  margin: 15px 0;
+}
+
+#profiles a {
+  display: inline-block;
+  background: #415a77;
+  color: #fff;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  min-width: 180px;
+}
+
+#profiles a:hover {
+  background: #00b4d8;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 180, 216, 0.3);
+}
