@@ -308,8 +308,6 @@ transition:0.3s;
 .project-buttons a:hover
 
 @media(max-width:768px){
-
-```
 .project-header{
     flex-direction:column;
     align-items:flex-start;
@@ -324,6 +322,4 @@ transition:0.3s;
     width:100%;
     text-align:center;
 }
-```
-
 }
